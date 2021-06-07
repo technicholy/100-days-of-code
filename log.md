@@ -9,22 +9,20 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 7, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Remove duplicates from sorted array. Reverse a string provided as an array.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This was fairly straightforward.  READ THE NOTES CAREFULLY. Splice method needs more attention.
+Reversing a string was more about cheesing the test than learning anything. The fastest test response ignored the test instruction and returned the reverse function, which was faster than not returning anything.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link:** https://leetcode.com/submissions/detail/504468493/?from=explore&item_id=727
 
+### Day 2: June 8, 2021
 
-### Day 1: June 27, Monday
+**Today's Progress**: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link:**
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
