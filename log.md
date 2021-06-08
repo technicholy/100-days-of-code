@@ -20,6 +20,15 @@ Reversing a string was more about cheesing the test than learning anything. The 
 
 ### Day 2: June 8, 2021
 
+**Today's Progress**: Delete a node in a linked list. Max Depth of Binary Tree
+
+**Thoughts:** I overcomplicated linked list a bit. Will get better with practice.
+Binary Tree was a little harder. Seeing the solution makes it clearer to me now. The correct solution is often very simple. Navigating the trees makes more sense now.
+
+**Link:** https://leetcode.com/submissions/detail/504998584/?from=explore&item_id=553
+
+### Day 3: June 9, 2021
+
 **Today's Progress**: 
 
 **Thoughts:** 
