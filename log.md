@@ -29,6 +29,21 @@ Binary Tree was a little harder. Seeing the solution makes it clearer to me now.
 
 ### Day 3: June 9, 2021
 
+**Today's Progress**: Best Time to Buy and Sell Stocks II
+
+**Thoughts:** I blew this one. Major failure to understand the undelying problem to be solved. Way overcomplicated it. Got to look for simple solutions first.
+
+**Link:** https://leetcode.com/submissions/detail/505630303/?from=explore&item_id=564
+### Day 4: June 10, 2021
+
+**Today's Progress**: Rotate Array
+
+**Thoughts:** Not too bad. SPREAD OPERATOR, SPREAD OPERATOR, SPREAD OPERATOR.
+
+**Link:** https://leetcode.com/submissions/detail/506066795/?from=explore&item_id=646
+
+### Day 5: June 11, 2021
+
 **Today's Progress**: 
 
 **Thoughts:** 
